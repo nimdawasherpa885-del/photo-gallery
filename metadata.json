@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Photo Gallery",
+  "description": "A responsive role-based photo gallery application with Admin and User capabilities, albums, interactive lightbox, category filtering, and photo management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
